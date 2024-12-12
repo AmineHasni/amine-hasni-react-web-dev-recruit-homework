@@ -1,0 +1,24 @@
+{
+  "products": [
+    { "id": "1", "name": "iPhone 13", "category": "smartphones" },
+    { "id": "2", "name": "Samsung Galaxy S22", "category": "smartphones" },
+    { "id": "3", "name": "Google Pixel 7", "category": "smartphones" },
+    { "id": "4", "name": "OnePlus 11", "category": "smartphones" },
+    { "id": "5", "name": "The Great Gatsby", "category": "books" },
+    { "id": "6", "name": "To Kill a Mockingbird", "category": "books" },
+    { "id": "7", "name": "1984", "category": "books" },
+    { "id": "8", "name": "Moby Dick", "category": "books" },
+    { "id": "9", "name": "T-Shirt", "category": "clothes" },
+    { "id": "10", "name": "Jeans", "category": "clothes" },
+    { "id": "11", "name": "Jacket", "category": "clothes" },
+    { "id": "12", "name": "Sneakers", "category": "clothes" },
+    { "id": "13", "name": "Lego Set", "category": "toys" },
+    { "id": "14", "name": "Action Figure", "category": "toys" },
+    { "id": "15", "name": "Board Game", "category": "toys" },
+    { "id": "16", "name": "Puzzle", "category": "toys" },
+    { "id": "17", "name": "Huawei P50", "category": "smartphones" },
+    { "id": "18", "name": "Pride and Prejudice", "category": "books" },
+    { "id": "19", "name": "Hoodie", "category": "clothes" },
+    { "id": "20", "name": "RC Car", "category": "toys" }
+  ]
+}
